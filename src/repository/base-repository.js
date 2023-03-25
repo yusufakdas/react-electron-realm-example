@@ -1,13 +1,15 @@
 class BaseRepository {
-  async init(databaseAddress) { }
+  async init() { }
 
-  async create(dataObject) { }
+  create(text, isChecked) { }
 
-  async read(id = undefined) { }
+  readAll() { }
 
-  async update(id) { }
+  readSingle(id) { }
 
-  async delete(id) { }
+  update(id, isChecked) { }
+
+  delete(id) { }
 }
 
 export default BaseRepository;
