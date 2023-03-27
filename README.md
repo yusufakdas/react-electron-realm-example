@@ -8,7 +8,7 @@ In the project directory, you can run:
 
 ### `npm install`
 
-Install required dependecies.
+Installs required dependecies.
 
 ### `npm run build`
 
@@ -16,4 +16,4 @@ Builds the project.
 
 ### `npm run start`
 
-Run the application.
+Runs the application.
