@@ -6,6 +6,10 @@ Simple TODO application to show how to use React, Electron and MongoDB Realm tog
 
 In the project directory, you can run:
 
+### `npm install`
+
+Install required dependecies.
+
 ### `npm run build`
 
 Builds the project.
